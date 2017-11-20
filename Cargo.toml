@@ -1,0 +1,6 @@
+[package]
+name = "Output"
+version = "0.1.0"
+authors = ["Alvin Ng rebooting at google mail"]
+
+[dependencies]
